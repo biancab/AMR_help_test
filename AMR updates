@@ -6,8 +6,8 @@ The changes/updates up to this point are:
 
 •  If the sentence contains a “yes/no” answer to a previous question/statement, then “yes/no” are omitted from the annotation, e.g.:
 
-<code>(t / true
-  :domain (t2 / that))</code>
+<code>(t / true</code>
+  <code>:domain (t2 / that))</code>
 
 "Yes , that is true."
 
