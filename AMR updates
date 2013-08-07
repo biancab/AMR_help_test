@@ -7,7 +7,7 @@ The changes/updates up to this point are:
 •  If the sentence contains a “yes/no” answer to a previous question/statement, then “yes/no” are omitted from the annotation, e.g.:
 
 ```lisp
-(t / true</code>
+(t / true
    :domain (t2 / that))
 ```
 
